@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name        = "SwiftyJSON"
   s.version     = "3.0.0"
-  s.summary     = "SwiftyJSON makes it easy to deal with JSON data in Swift"
+  s.summary     = "This is a fork of original repository. SwiftyJSON makes it easy to deal with JSON data in Swift"
   s.homepage    = "https://github.com/SwiftyJSON/SwiftyJSON"
   s.license     = { :type => "MIT" }
   s.authors     = { "lingoer" => "lingoerer@gmail.com", "tangplin" => "tangplin@gmail.com" }
@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "8.0"
   s.watchos.deployment_target = "2.0"
   s.tvos.deployment_target = "9.0"
-  s.source   = { :git => "https://github.com/SwiftyJSON/SwiftyJSON.git", :tag => s.version }
+  s.source   = { :git => "https://github.com/SnowyWhite/SwiftyJSON.git", :tag => s.version }
   s.source_files = "Source/*.swift"
 end

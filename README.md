@@ -4,6 +4,8 @@
 
 SwiftyJSON makes it easy to deal with JSON data in Swift.
 
+(This is just a fork of an [original repository](https://github.com/SwiftyJSON/SwiftyJSON))
+
 1. [Why is the typical JSON handling in Swift NOT good](#why-is-the-typical-json-handling-in-swift-not-good)
 1. [Requirements](#requirements)
 1. [Integration](#integration)
